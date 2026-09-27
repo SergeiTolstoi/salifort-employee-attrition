@@ -29,7 +29,7 @@ Salifort Motors is losing employees at a high rate — **16.6%** of the workforc
 
 ## Key results
 
-| | |
+| Metric | Result |
 |---|---|
 | **Recommended model** | Random forest trained **without survey data** — runs monthly on HRIS data |
 | **Hold-out performance** | Precision **0.95** · Recall **0.92** · F1 **0.935** · AUC **0.97** · Accuracy **0.98** |
